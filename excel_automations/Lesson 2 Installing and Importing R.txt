@@ -9,7 +9,12 @@ Exploring data with head(), tail(), and info() methods.
 Accessing specific sheets and columns.
 https://www.w3schools.com/python/pandas/default.asp
 
+
+Assignment #1
+# October to be completed on 20th October
 #self-learning - lists, list-indexes and for loop
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_for_loops.asp
 # In any dataframe, I want to know how many null values are there in a particular column
 
 Lesson 4: Writing Excel Files
