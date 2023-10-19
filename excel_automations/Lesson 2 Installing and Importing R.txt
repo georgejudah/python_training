@@ -1,0 +1,40 @@
+Lesson 2: Installing and Importing Required Libraries
+ Introduction to libraries (pandas, openpyxl, xlrd).
+Installing libraries using pip.
+Importing libraries in Python scripts.
+
+Lesson 3: Reading Excel Files
+Loading Excel files using pandas (pd.read_excel).
+Exploring data with head(), tail(), and info() methods.
+Accessing specific sheets and columns.
+https://www.w3schools.com/python/pandas/default.asp
+
+#self-learning - lists, list-indexes and for loop
+# In any dataframe, I want to know how many null values are there in a particular column
+
+Lesson 4: Writing Excel Files
+Creating a new Excel file (pd.DataFrame()).
+Writing data to Excel (to_excel method).
+Customizing formatting and appearance.
+
+Lesson 5: Data Manipulation
+Filtering and selecting data.
+Sorting data.
+Adding and deleting rows/columns.
+Combining and merging data from multiple sheets.
+
+
+Lesson 6: Data Analysis and Visualization
+Statistical analysis (mean, median, etc.).
+Plotting data (matplotlib or seaborn).
+ Creating pivot tables for summarizing data.
+
+Lesson 7: Error Handling and Data Validation
+Handling missing data (NaN or NULL values).
+Data validation and cleaning.
+Dealing with common data import issues.
+
+Lesson 8: Automation and Scripting
+Creating reusable functions for Excel operations.
+Batch processing multiple Excel files.
+Scheduling tasks with Python.
