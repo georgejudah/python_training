@@ -24,6 +24,11 @@ BONUS questions
 **4. Find the number of books having books having 'Non Fiction' genre
 
 
+
+# ASSIGNMENT #2
+# 1. remove all rows having duplicate names
+# 2. Save this dataframe into an excel file(along all of the steps which we did earlier as well), don't need a column for index
+
 Lesson 4: Writing Excel Files
 Creating a new Excel file (pd.DataFrame()).
 Writing data to Excel (to_excel method).
