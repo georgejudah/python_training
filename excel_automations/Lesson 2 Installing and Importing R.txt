@@ -15,7 +15,14 @@ Assignment #1
 #self-learning - lists, list-indexes and for loop
 https://www.w3schools.com/python/python_lists.asp
 https://www.w3schools.com/python/python_for_loops.asp
-# In any dataframe, I want to know how many null values are there in a particular column
+# In the AmazonBooks dataframe
+the AmazonBooks excel file which was shared,
+1. find the number of rows containing null values in 1.)User Rating 2.)Reviews
+2. If you find any null values, remove that particular rows out of the dataframe and print the number of rows available after deleting
+BONUS questions
+**3. Find the number of books having rating more than 4.5 and print out the names of each books
+**4. Find the number of books having books having 'Non Fiction' genre
+
 
 Lesson 4: Writing Excel Files
 Creating a new Excel file (pd.DataFrame()).
